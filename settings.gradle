@@ -1,0 +1,3 @@
+include 'webapp', 'api'
+
+rootProject.name = 'UI_Challenge'
